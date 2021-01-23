@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f037e4a-9944-455b-804e-098416448258" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../sumeyyekilic.github.io-master/assets/img/blog/api.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sumeyyekilic.github.io-master/assets/img/blog/api2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sumeyyekilic.github.io-master/assets/img/gistdeneme.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sumeyyekilic.github.io-master/hydejack/_posts/2020-04-20-gist-hakkinda.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Hobby.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
