@@ -1,6 +1,6 @@
 # MyHobiselProject
 
 ```python
-if (isHobisel):
-  print('True')
+if isHobisel:
+    print('True')
 ```
