@@ -1,4 +1,9 @@
 #birden fazla boş satırlar python kodunun sonucunu etkilemez
+# *********************************************************
+#  **     @sumklc                                         **
+#  **     Sümeyye kılıç                                   **
+#  **     29.01.2021                                      **
+# *********************************************************
 
 baslangic=0
 bitis=80
@@ -10,10 +15,13 @@ for s in range(1,10):
    if cevap=='evet':
       print("doğru cevap!")
       break
+
    elif cevap=='daha az':
       bitis=tahmin_et
+
    elif cevap=='daha çok':
       baslangic=tahmin_et
+
    else:
       print("yanlış cevap!..")
 
